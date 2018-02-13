@@ -8,7 +8,8 @@ Support for Twitter Bootstrap 3 in [Django HTMGel][django-htmgel].
 
 To install:
 
-    pip install django-htmgel[bootstrap3];
+    pip install django-htmgel[bootstrap3]; # TODO
+    pip install git+https://github.com/develmaycare/django-htmgel-bootstrap3.git
 
 Add the app to your ``INSTALLED_APPS``:
 
